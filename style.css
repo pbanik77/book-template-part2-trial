@@ -1,0 +1,54 @@
+/*Google fonts integrate*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;515;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+*{
+	margin: 0;
+	padding: 0;
+}
+	
+.container{
+	padding: 80px;
+}
+.service{
+	width: 100%;
+	height: auto;
+	background-image: linear-background(to bottom,#f6f8fc 0%,#fff 70%);
+}
+.service-body{
+	width: 100%;
+	float: left;
+	padding: 100px 0;
+
+}
+.col{
+	width: 33.33%;
+	float: left;
+
+}
+.service-title{
+	margin:30px 0;
+	text-align: center;
+}
+.service-title h1{
+font-size: 42px;
+margin: 10px 0;
+}
+.service-title p{
+	font-size: 20px;
+	line-height: 20px;
+	color: #4c527d;
+}
+.item{
+	text-align: center;
+	padding: 30px;
+}
+.item p{
+	color:  #4c527d;
+	font-size: 15px;
+	line-height: 24px; 
+}
+
+
+
